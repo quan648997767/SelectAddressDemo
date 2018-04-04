@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SelectAddressDemo</string>
+    <string name="consignee_text">收货人 : </string>
+    <string name="consignee_text_hint">收货人姓名</string>
+    <string name="consignee_tel_hint">收货人手机号</string>
+    <string name="consignee_detail_hint">请输入详细街道地址</string>
+    <string name="phone_text">手机号 : </string>
+    <string name="address_text">省市区 : </string>
+    <string name="detail_address">详细地址 : </string>
+    <string name="recevie_address">收货地址 : </string>
+    <string name="selset_birthday">请选择</string>
+    <string name="select_address_pop_title">所在地区</string>
+</resources>

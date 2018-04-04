@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparentsmll_bg">#33000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="content_bg">#FFF2F2F2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="order_key">#666666</color>
+    <color name="regis_account_exist">#222222</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="line_channle">#E5E5E5</color>
+    <color name="new_redbg">#FFFF5B62</color>
+</resources>
